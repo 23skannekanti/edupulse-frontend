@@ -1,6 +1,7 @@
 {
-  "eslint": false,
-  "types": {
-    "ignoreBuildErrors": true
+  "git": {
+    "deploymentEnabled": {
+      "main": false
+    }
   }
 }
